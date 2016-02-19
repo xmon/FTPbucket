@@ -1,6 +1,8 @@
 FTPbucket
 =========
 
+**Trying to solve ** Issue [#5](https://github.com/Wanchai/FTPbucket/issues/5)
+
 ![alt text](logo.png "Logo")
 
 FTPbucket is a PHP script that enables you to sync your BitBucket or GitHub repository with any web-server.
